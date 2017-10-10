@@ -1,0 +1,7 @@
+{
+"name": "docker_web_app",
+"version": "1.0.0",
+"description": "Node.js on Docker",
+"author": "Leandro Rosa <leandrogr03@gmail.com",
+"main": "app.js"
+}
